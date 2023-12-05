@@ -76,5 +76,5 @@ public class Main {
             day = 3;
         }
         return day;
-        }
     }
+}
