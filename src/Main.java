@@ -75,7 +75,6 @@ public class Main {
         } else if (deliveryDistance <= 100) {
             day = 3;
         }
-
         return day;
     }
 }
